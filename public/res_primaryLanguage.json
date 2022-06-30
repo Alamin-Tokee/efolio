@@ -264,7 +264,23 @@
             "CPP",
             "Python",
             "JavaScript",
-            "CP"
+            "Competative Programming",
+            "Algorithm & Data Structure"
+        ]
+      },
+      {
+        "company": "Geekforgeeks & Leetcode & Kaggle",
+        "title": "Tech Contributor",
+        "years": "03.2019 - 08.2020",
+        "mainTech": [
+            "Programming"
+        ],
+        "technologies": [
+            "Algorithm & Data Structure",
+            "CPP",
+            "Python",
+            "JavaScript",
+            "Machine Learning"
         ]
       }
     ]

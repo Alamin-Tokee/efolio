@@ -5,15 +5,41 @@
         "description": "Zajmuję się projektowaniem i programowaniem aplikacji oraz stron internetowych. Na back-endzie korzystam głównie z .NET Core. Oprócz zbierania dalszego doświadczenia w Angular i C#, rozwijam poza pracą swoje front-endowe zainteresowania także w React.",
         "social": [
           {
+            "name": "email",
+            "url": "mailto:alameen.swe@gmail.com",
+            "class": "fas fa-envelope"
+          },
+          {
+            "name": "linkedin",
+            "url": "https://www.instagram.com/alamintokee/",
+            "class": "fab fa-linkedin"
+          },
+          {
             "name": "github",
-            "url": "https://github.com/Dorota1997",
+            "url": "https://github.com/Alamin-Tokee",
             "class": "fab fa-github"
           },
           {
             "name": "instagram",
-            "url": "https://www.instagram.com/dorota__gil/",
+            "url": "https://www.instagram.com/alamintokee/",
             "class": "fab fa-instagram"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.instagram.com/alamintokee/",
+            "class": "fab fa-facebook"
+          },
+          {
+            "name": "Twitter",
+            "url": "https://www.instagram.com/alamintokee/",
+            "class": "fab fa-twitter"
+          },
+          {
+            "name": "Youtube",
+            "url": "https://www.instagram.com/alamintokee/",
+            "class": "fab fa-youtube"
           }
+          
         ],
         "image": "myProfile.jpg"
     },
@@ -30,8 +56,28 @@
             "level": "95"
           },
           {
-            "name": "Angular",
-            "class": "devicon-angularjs-plain",
+            "name": "Sass",
+            "class": "devicon-sass-original",
+            "level": "75"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
+            "name": "Material UI",
+            "class": "devicon-materialui-plain",
+            "level": "85"
+          },
+          {
+            "name": "C",
+            "class": "devicon-c-plain",
+            "level": "80"
+          },
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
             "level": "80"
           },
           {
@@ -45,18 +91,28 @@
             "level": "70"
           },
           {
-            "name": "Sass",
-            "class": "devicon-sass-original",
+            "name": "Python",
+            "class": "devicon-python-plain",
             "level": "75"
           },
           {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain",
+            "name": "Java",
+            "class": "devicon-java-plain",
             "level": "85"
           },
           {
-            "name": "C#",
-            "class": "devicon-csharp-plain",
+            "name": "NodeJS",
+            "class": "devicon-nodejs-plain",
+            "level": "65"
+          },
+          {
+            "name": "ReactJS",
+            "class": "devicon-react-original",
+            "level": "60"
+          },
+          {
+            "name": "ExpressJS",
+            "class": "devicon-express-original",
             "level": "65"
           },
           {
@@ -65,24 +121,34 @@
             "level": "60"
           },
           {
-            "name": "C#",
-            "class": "devicon-csharp-plain",
-            "level": "65"
-          },
-          {
-            "name": "MySql",
-            "class": "devicon-mysql-plain",
+            "name": "MongoDB",
+            "class":"devicon-mongodb-plain",
             "level": "60"
           },
           {
-            "name": "C#",
-            "class": "devicon-csharp-plain",
+            "name": "PostgreSQL",
+            "class":"devicon-postgresql-plain",
+            "level": "60"
+          },
+          {
+            "name": "Linux",
+            "class": "devicon-linux-plain",
             "level": "65"
           },
           {
-            "name": "MySql",
-            "class": "devicon-mysql-plain",
+            "name": "Git",
+            "class":"devicon-git-plain",
             "level": "60"
+          },
+          {
+            "name": "Docker",
+            "class":"devicon-docker-plain",
+            "level": "60"
+          },
+          {
+            "name": "Flask",
+            "class":"devicon-flask-original",
+            "level": "90"
           }
       ]
     }
